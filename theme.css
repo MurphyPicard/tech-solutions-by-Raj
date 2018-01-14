@@ -1,4 +1,36 @@
+body{
+  background-color: #ffbd3f;
+
+
+}
+.bodyDiv{
+  text-align: center;
+  background-color: #b9dbf4;
+  font-size: 22px;
+
+  height: 90%;
+  width: 90%;
+
+  margin: 10px auto;
+
+  border: solid black 2px;
+  border-radius: 20%;
+}
 h1{
-  background-color: yellow;
-  color: red;
+  /* background-color: #8ace68; */
+  margin-top: 10px;
+  color: #045c4d;
+  font-size: 48px;
+}
+.contactInfo{
+  font-size: 30px;
+}
+.dividorDiv{
+  background-color: #f4c8aa;
+  margin: 0 auto;
+  width: 99%;
+  font-size: 36px;
+}
+img{
+  height: 200px;
 }
